@@ -28,6 +28,12 @@ feature contributions at both global and local levels.
 ## Results
 - SHAP revealed the most influential features affecting predictions
 - LIME provided human-readable explanations for individual samples
+- 
+## Interactive Visualization with Streamlit
+The project includes a **Streamlit-based web application** that enables
+interactive exploration of a Random Forest classifier. Users can input feature
+values and view corresponding predictions along with **SHAP** and **LIME**
+explanations, improving accessibility and interpretability of the model.
 
 ## Tools & Libraries
 - Python
@@ -35,8 +41,10 @@ feature contributions at both global and local levels.
 - SHAP
 - LIME
 - NumPy, Pandas, Matplotlib
+- streamlit
 
 ## What I Learned
 - How to interpret black-box models
 - Differences between SHAP and LIME
 - Importance of explainability in ML systems
+- Visualisation of the interpreted Results
