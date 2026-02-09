@@ -1,7 +1,5 @@
-# Explainable-AI-SHAP-LIME
-Explainable AI project using SHAP and LIME to interpret predictions of a Random Forest classifier.
 # Explainable AI using SHAP and LIME
-
+Explainable AI project using SHAP and LIME to interpret predictions of a Random Forest classifier.
 ## Overview
 This project demonstrates how **SHAP** and **LIME** can be used to explain
 predictions made by a machine learning model.
